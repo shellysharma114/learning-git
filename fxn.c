@@ -20,7 +20,7 @@ int main()
     printf("\n6 delete ele at the mid");
     printf("\n7 display");
     
-  printf("\n enter your choice(1-7): ");
+  printf("\n enter your   choice(1-7): ");
   scanf("%d",&ch);
   
   
